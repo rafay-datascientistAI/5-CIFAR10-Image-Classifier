@@ -53,7 +53,7 @@ I built a CNN model to classify images into multiple object categories.
 ## 📊 Results
 
 - Model performs well on CIFAR-10 dataset  
-- Accuracy: (add your result here)  
+- Accuracy: 73%  
 
 ---
 
